@@ -1,0 +1,3 @@
+[submodule "Gauss/googletest"]
+	path = Gauss/googletest
+	url = git@github.com:google/googletest.git
